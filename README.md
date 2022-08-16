@@ -8,7 +8,7 @@
 ## 可能加入功能：
 ### 虚拟背包自动整理，排序
 收藏超过5开始写
-
+收藏超过10编程速度提高200%
 
 # Virtual-Box
 
@@ -28,4 +28,4 @@
 
 ###Automatic sorting and sorting of virtual backpacks
 
-Start writing when your collection exceeds 5
+Start writing when stars exceeds 5
