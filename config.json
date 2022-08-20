@@ -1,0 +1,7 @@
+{
+    "maxpage": 3,
+    "moneymode": 1,
+    "pagecost": 0,
+    "paycalculationformula": "{pagecost}+{page}*{page}*2000",
+    "scoremoneyname": "money"
+}
