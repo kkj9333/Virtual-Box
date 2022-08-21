@@ -8,8 +8,11 @@
 - Support the expansion of virtual backpacks (cost), and support page turning;
 - Support simple custom virtual backpack expansion cost calculation formula;
 - Support OP management to check other people's virtual backpacks;
+- Support sharing virtual backpacks with other players;
 ### Possible features:
-- Automatic sorting and sorting of virtual backpacks
+- Automatic sorting and sorting of virtual backpacks;
+- Item consolidation;
+- Open virbox with the specified item
 
 ### Demo version🎁
  The demo version means that it is not a formal version, and the function is not perfect and experimental. This page is in the demo version test state before the formal completion.
