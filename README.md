@@ -1,5 +1,5 @@
 # Virtual-Box
-##### [English](README.md) | 简体中文
+##### [English](README_en-us.md) | 简体中文
 ## minecraft BE bds端插件-玩家多背包系统-虚拟箱子
 - **这是一个正在开发的bds端插件**
 - 相当于玩家多背包扩展
