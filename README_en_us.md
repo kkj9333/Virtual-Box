@@ -1,5 +1,5 @@
 # Virtual-Box
-##### English | [简体中文](README_zh-cn.md)
+##### English | [简体中文](README.md)
 ## minecraft BE BDS plug-in - player multi backpack system - virtual box
 - **This is a BDS plug-in under development**
 - Equivalent to player multi backpack expansion
