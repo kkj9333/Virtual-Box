@@ -19,7 +19,7 @@
  demo版本意味着不是正式版本，功能并未完善且具有实验性，此页面在正式完成前均处于DEMO版本测试状态。
 ![virboxDEMO版本操作界面](https://user-images.githubusercontent.com/51207072/185733431-2ed6d0a6-cb8c-44fa-bf74-faa3ca226791.png)
 ### 如何安装和开始
-- 本插件依赖于LiteloaderBDS启动器（2.5.1以上），下载插件后，请将插件丢入plugins目录，运行正常，进入游戏后使用指令/virbox即可开始操作。
+- 本插件依赖于LiteloaderBDS启动器（2.5.1以上），下载插件后，请将dll插件丢入plugins目录，运行正常，进入游戏后使用指令/virbox即可开始操作。
 ### 关于DEMO版本的简要说明
 - DEMO版本实现了简单的物品取出，放入，移动操作，实现了翻页和自定义虚拟背包扩展花费计算公式（四则运算）
 - OP可以管理他人的虚拟背包，/virbox playername.
