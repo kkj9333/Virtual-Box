@@ -22,7 +22,7 @@
 - This plug-in depends on the liteloader BDS launcher (above 2.5.1). After downloading the plug-in, please put the DLL plug-in into the plugins directory and run normally. After entering the game, use the command /virbox to start the operation.
 ### Brief description of demo version
 - Demo version realizes simple operation of taking out, putting in and moving items, and realizes page turning and user-defined virtual backpack expansion cost calculation formula (four operations)
-- OP can manage other people's virtual backpacks, /virbox playername
+- OP can manage other people's virtual backpacks, /virbox open playername
  <br/>But there are some details that need attention:<br>
 - First of all, item exchange is not allowed. When items are thrown out, the merging operation is not allowed. Under windows, the merging operation of virtual virbox will directly become "exchanging items selected by the mouse";
 - Many original operations in the game have not yet been implemented, and you may receive a warning from the plug-in; If the plug-in pops up an error (not from liteloader), don't worry too much. It is usually handled automatically. If you think it is an error, **Please submit the error description and the recurrence steps in the issue.** 
