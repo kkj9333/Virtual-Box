@@ -30,6 +30,7 @@
 ### configuration file📋
 ```javascript
 {
+    "forceopenvirbox": false, //Force the replacement of opening the backpack to open the virbox, which will lead to synthesis, equipment and other operations can only be completed in the workbench. It is recommended not to enable
     "maxpage": 3,//Maximum number of pages that can be unlocked by a player
     "moneymode": 1,//Economic operation mode，1=llmoney，0=scoreboard
     "pagecost": 0,//Page cost is a custom variable, not the final cost.
