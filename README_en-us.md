@@ -4,7 +4,7 @@
 - **This is a BDS plug-in under development**
 - Equivalent to player multi backpack expansion
 - You can open a virtual backpack in the form of a large box. You can move freely between the virtual box and your own backpack and take out items
-### The planned functions include:
+### The Completed functions include:
 - Support the expansion of virtual backpacks (cost), and support page turning;
 - Support simple custom virtual backpack expansion cost calculation formula;
 - Support OP management to check other people's virtual backpacks;
