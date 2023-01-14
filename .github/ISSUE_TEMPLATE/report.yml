@@ -1,0 +1,82 @@
+
+name: "[简体中文] 报告漏洞/问题"
+description: "反馈报告漏洞/问题"
+labels: ["bug", "question"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      > **注意事项**
+      > 1. 请反馈只与插件相关的问题或者需要的帮助
+
+- type: dropdown
+  id: os
+  attributes:
+    label: 操作系统
+    multiple: false
+    options:
+      - Windows Server 2022
+      - Windows Server 2019
+      - Windows Server 2016
+      - Windows Server 2012
+      - 其他版本的 Windows Server
+      - Windows 11
+      - Windows 10
+      - 其他版本的 Windows
+      - GNU/Linux with docker
+      - GNU/Linux with wine
+      - 其他操作系统
+  validations:
+    required: true
+- type: input
+  id: llversion
+  attributes:
+    label: "LiteLoader版本"
+    placeholder: 输入您的LiteLoader版本，如果使用了LiteLoader加载器的话
+    description: |
+      如果您正在使用其他加载器，请输入其他加载器的名称及版本，但不一定会得到支持
+  validations:
+    required: true
+- type: input
+  id: bdsversion
+  attributes:
+    label: BDS版本
+    placeholder: 输入您的BDS版本
+  validations:
+    required: true
+- type: input
+  id: pluginversion
+  attributes:
+    label: Virtual-Box版本
+    placeholder: 输入您的Virtual-Box版本，可在下载或启动控制台加载插件时获取到版本号
+  validations:
+    required: true
+- type: textarea
+  id: what-happened
+  attributes:
+    label: 发生了什么?
+    description: |
+      发生了什么?请描述你的问题. 并告诉我们, 您希望我们做什么
+    placeholder: 清晰地描述你的问题
+  validations:
+    required: true
+- type: textarea
+  id: reproduce
+  attributes:
+    label: 复现此问题的步骤
+    description: 尽可能清晰且详细的描述如何复现
+    placeholder: |
+      1. Do something
+      2. ...
+      3. ...
+- type: textarea
+  id: logs
+  attributes:
+    label: 有关的日志/输出
+    description: 请粘贴有关此问题的日志到此处
+    render: shell
+- type: markdown
+  attributes:
+    value: |
+      **如果你有图片，视频或其他内容，请在下面评论(comment)。截图，日志和dmp文件对解决你的问题很重要、很有帮助**
+      ******
