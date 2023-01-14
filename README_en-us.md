@@ -16,8 +16,9 @@
 
 
 ### Demo version🎁
- The demo version means that it is not a formal version, and the function is not perfect and experimental. This page is in the demo version test state before the formal completion.
-![virboxDEMO版本操作界面](https://user-images.githubusercontent.com/51207072/185733431-2ed6d0a6-cb8c-44fa-bf74-faa3ca226791.png)
+ The demo version means that it is not a formal version, and the function is not perfect and experimental. This page is in the demo version test state before the formal completion.<br>
+ ![virboxDEMO版本操作界面](https://user-images.githubusercontent.com/51207072/212472160-d375edf7-6575-40a6-9d4a-0601789ed655.png)
+
 ### How to install and start
 - This plug-in depends on the liteloader BDS launcher (above 2.5.1). After downloading the plug-in, please put the DLL plug-in into the plugins directory and run normally. After entering the game, use the command /virbox to start the operation.
 ### Brief description of demo version
