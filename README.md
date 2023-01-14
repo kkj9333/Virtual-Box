@@ -17,7 +17,7 @@
 
 ### DEMO版本🎁
  demo版本意味着不是正式版本，功能并未完善且具有实验性，此页面在正式完成前均处于DEMO版本测试状态。
-![virboxDEMO版本操作界面](https://user-images.githubusercontent.com/51207072/185733431-2ed6d0a6-cb8c-44fa-bf74-faa3ca226791.png)
+ ![virboxDEMO版本操作界面](https://user-images.githubusercontent.com/51207072/212472160-d375edf7-6575-40a6-9d4a-0601789ed655.png)
 ### 如何安装和开始
 - 本插件依赖于LiteloaderBDS启动器（2.5.1以上），下载插件后，请将dll插件丢入plugins目录，运行正常，进入游戏后使用指令/virbox即可开始操作。
 ### 关于DEMO版本的简要说明
