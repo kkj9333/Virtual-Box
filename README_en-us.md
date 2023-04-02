@@ -9,9 +9,10 @@
 - Support simple custom virtual backpack expansion cost calculation formula;
 - Support OP management to check other people's virtual backpacks;
 - Support sharing virtual backpacks with other players;
-- Open virbox with the specified item
-### Possible features:
+- Open virbox with the specified item;
 - Automatic sorting and sorting of virtual backpacks;
+### Possible features:
+- Automatic sorting and sorting of Player's Inventory;
 - Item consolidation
 
 
