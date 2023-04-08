@@ -11,8 +11,8 @@
 - Support sharing virtual backpacks with other players;
 - Open virbox with the specified item;
 - Automatic sorting and sorting of virtual backpacks;
+- Automatic sorting and sorting of Player's Inventory (BETA);
 ### Possible features:
-- Automatic sorting and sorting of Player's Inventory;
 - Item consolidation
 
 
